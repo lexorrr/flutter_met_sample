@@ -1,4 +1,4 @@
-package com.example.flutter_met_sample
+package com.flutterflow.fluttermetsample
 
 import io.flutter.embedding.android.FlutterActivity
 
